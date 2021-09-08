@@ -15,7 +15,7 @@ Untuk membangun aplikasi ini, panduan [Pertemuan 8](https://github.com/sslaia/be
 1. Ciptakan aplikasi baru Flutter di dalam **Android Studio**: **File > New > New Flutter project**
 2. Beri nama aplikasi **towi_towi**
 3. Setelah selesai, buka berkas **main.dart** dan kosongkan (hapus semua kode yang otomatis telah disediakan Android Studio).
-4. Buka berkas main.dart dari aplikasi [https://github.com/sslaia/gogowaya/blob/main/lib/main.dart](https://github.com/sslaia/towi/blob/main/lib/main.dart)
+4. Buka berkas main.dart dari aplikasi [https://github.com/sslaia/towi/blob/main/lib/main.dart](https://github.com/sslaia/towi/blob/main/lib/main.dart)
 5. Kopi semua isinya, lalu sisipkan di dalam berkas main.dart di Android Studio Anda.
 6. Selesai
 
